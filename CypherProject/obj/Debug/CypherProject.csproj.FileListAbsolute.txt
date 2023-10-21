@@ -1,0 +1,31 @@
+G:\tasks\CypherProject\CypherProject\bin\Debug\CypherProject.exe.config
+G:\tasks\CypherProject\CypherProject\bin\Debug\CypherProject.exe
+G:\tasks\CypherProject\CypherProject\bin\Debug\CypherProject.pdb
+G:\tasks\CypherProject\CypherProject\obj\Debug\CypherProject.csprojAssemblyReference.cache
+G:\tasks\CypherProject\CypherProject\obj\Debug\CypherProject.Form1.resources
+G:\tasks\CypherProject\CypherProject\obj\Debug\CypherProject.Properties.Resources.resources
+G:\tasks\CypherProject\CypherProject\obj\Debug\CypherProject.csproj.GenerateResource.cache
+G:\tasks\CypherProject\CypherProject\obj\Debug\CypherProject.csproj.CoreCompileInputs.cache
+G:\tasks\CypherProject\CypherProject\obj\Debug\CypherProject.exe
+G:\tasks\CypherProject\CypherProject\obj\Debug\CypherProject.pdb
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\الترم الثاني\Security\project\CypherProject\CypherProject\obj\Debug\CypherProject.csprojAssemblyReference.cache
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\الترم الثاني\Security\project\CypherProject\CypherProject\obj\Debug\CypherProject.Form1.resources
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\الترم الثاني\Security\project\CypherProject\CypherProject\obj\Debug\CypherProject.Properties.Resources.resources
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\الترم الثاني\Security\project\CypherProject\CypherProject\obj\Debug\CypherProject.csproj.GenerateResource.cache
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\الترم الثاني\Security\project\CypherProject\CypherProject\obj\Debug\CypherProject.csproj.CoreCompileInputs.cache
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\الترم الثاني\Security\project\CypherProject\CypherProject\obj\Debug\CypherProject.exe
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\الترم الثاني\Security\project\CypherProject\CypherProject\obj\Debug\CypherProject.pdb
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\الترم الثاني\Security\project\CypherProject\CypherProject\bin\Debug\CypherProject.exe.config
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\الترم الثاني\Security\project\CypherProject\CypherProject\bin\Debug\CypherProject.exe
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\الترم الثاني\Security\project\CypherProject\CypherProject\bin\Debug\CypherProject.pdb
+D:\REDAcv\CypherProject\CypherProject\bin\Debug\CypherProject.exe.config
+D:\REDAcv\CypherProject\CypherProject\bin\Debug\CypherProject.exe
+D:\REDAcv\CypherProject\CypherProject\bin\Debug\CypherProject.pdb
+D:\REDAcv\CypherProject\CypherProject\obj\Debug\CypherProject.csproj.AssemblyReference.cache
+D:\REDAcv\CypherProject\CypherProject\obj\Debug\CypherProject.csproj.SuggestedBindingRedirects.cache
+D:\REDAcv\CypherProject\CypherProject\obj\Debug\CypherProject.Form1.resources
+D:\REDAcv\CypherProject\CypherProject\obj\Debug\CypherProject.Properties.Resources.resources
+D:\REDAcv\CypherProject\CypherProject\obj\Debug\CypherProject.csproj.GenerateResource.cache
+D:\REDAcv\CypherProject\CypherProject\obj\Debug\CypherProject.csproj.CoreCompileInputs.cache
+D:\REDAcv\CypherProject\CypherProject\obj\Debug\CypherProject.exe
+D:\REDAcv\CypherProject\CypherProject\obj\Debug\CypherProject.pdb
